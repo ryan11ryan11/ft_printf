@@ -7,6 +7,7 @@ The main purpose of ft_printf is to create a function that formats and prints da
 Functionality:
 
 Format Specifiers: The function supports various format specifiers, such as:
+
 %c for characters
 %s for strings
 %d for signed integers
